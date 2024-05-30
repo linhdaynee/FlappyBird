@@ -1,0 +1,260 @@
+# depslib dependency file v1.0
+1715096593 source:c:\users\asus\documents\sdlproject\flappyeagle\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"GameLoop.h"
+
+1715048090 source:c:\users\asus\documents\sdlproject\flappyeagle\pipe.cpp
+	"pipe.h"
+
+1714926093 c:\users\asus\documents\sdlproject\flappyeagle\pipe.h
+	"CommonFunc.h"
+	<iostream>
+	<vector>
+	<iostream>
+
+1715069904 c:\users\asus\documents\sdlproject\flappyeagle\commonfunc.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+	<string>
+	<iostream>
+
+1715096087 source:c:\users\asus\documents\sdlproject\flappyeagle\land.cpp
+	"land.h"
+	<iostream>
+
+1714967817 c:\users\asus\documents\sdlproject\flappyeagle\land.h
+	"CommonFunc.h"
+	<vector>
+
+1714926526 source:c:\users\asus\documents\sdlproject\flappyeagle\mixer.cpp
+
+1715010702 source:c:\users\asus\documents\sdlproject\flappyeagle\commonfunc.cpp
+	"CommonFunc.h"
+
+1715052849 source:c:\users\asus\documents\sdlproject\flappyeagle\eagle.cpp
+	"eagle.h"
+
+1714927398 c:\users\asus\documents\sdlproject\flappyeagle\eagle.h
+	"CommonFunc.h"
+	"pipe.h"
+
+1715095851 source:c:\users\asus\documents\sdlproject\flappyeagle\gameloop.cpp
+	"GameLoop.h"
+	"CommonFunc.h"
+	<iostream>
+	<cmath>
+
+1715056517 c:\users\asus\documents\sdlproject\flappyeagle\gameloop.h
+	"eagle.h"
+	"pipe.h"
+	"land.h"
+	<string>
+	<fstream>
+	<sstream>
+
+1714994009 source:c:\users\asus\documents\sdlproject\flappyeagle\menu.cpp
+	"menu.h"
+	<iostream>
+
+1714993926 c:\users\asus\documents\sdlproject\flappyeagle\menu.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<vector>
+	<string>
+
+1715360443 source:c:\users\asus\documents\sdlproject\flappyskull\commonfunc.cpp
+	"CommonFunc.h"
+
+1715779193 c:\users\asus\documents\sdlproject\flappyskull\commonfunc.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1715775951 source:c:\users\asus\documents\sdlproject\flappyskull\eagle.cpp
+	"eagle.h"
+	"pipe.h"
+
+1715779161 c:\users\asus\documents\sdlproject\flappyskull\eagle.h
+	"CommonFunc.h"
+	"pipe.h"
+
+1715754297 c:\users\asus\documents\sdlproject\flappyskull\pipe.h
+	"CommonFunc.h"
+	<iostream>
+	<vector>
+	<iostream>
+
+1715441908 source:c:\users\asus\documents\sdlproject\flappyskull\gameloop.cpp
+	"GameLoop.h"
+	"CommonFunc.h"
+	<iostream>
+	<cmath>
+
+1715440628 c:\users\asus\documents\sdlproject\flappyskull\gameloop.h
+	"eagle.h"
+	"pipe.h"
+	"land.h"
+	"mixer.h"
+	<string>
+	<fstream>
+	<sstream>
+
+1714967817 c:\users\asus\documents\sdlproject\flappyskull\land.h
+	"CommonFunc.h"
+	<vector>
+
+1715096087 source:c:\users\asus\documents\sdlproject\flappyskull\land.cpp
+	"land.h"
+	<iostream>
+
+1715789430 source:c:\users\asus\documents\sdlproject\flappyskull\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"GameLoop.h"
+	"mixer.h"
+
+1715441611 source:c:\users\asus\documents\sdlproject\flappyskull\mixer.cpp
+	"mixer.h"
+	<iostream>
+	<string>
+
+1715048090 source:c:\users\asus\documents\sdlproject\flappyskull\pipe.cpp
+	"pipe.h"
+
+1715441458 c:\users\asus\documents\sdlproject\flappyskull\mixer.h
+	"CommonFunc.h"
+
+1716259503 source:c:\users\admin\downloads\flappyskull-main\commonfunc.cpp
+	"CommonFunc.h"
+
+1716259503 c:\users\admin\downloads\flappyskull-main\commonfunc.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1717023283 source:c:\users\admin\downloads\flappyskull-main\eagle.cpp
+	"eagle.h"
+	"pipe.h"
+
+1716259503 c:\users\admin\downloads\flappyskull-main\eagle.h
+	"CommonFunc.h"
+	"pipe.h"
+
+1716259503 c:\users\admin\downloads\flappyskull-main\pipe.h
+	"CommonFunc.h"
+	<iostream>
+	<vector>
+	<iostream>
+
+1717023919 source:c:\users\admin\downloads\flappyskull-main\gameloop.cpp
+	"GameLoop.h"
+	"CommonFunc.h"
+	<iostream>
+	<cmath>
+
+1716259503 c:\users\admin\downloads\flappyskull-main\gameloop.h
+	"eagle.h"
+	"pipe.h"
+	"land.h"
+	"mixer.h"
+	<string>
+	<fstream>
+	<sstream>
+
+1716259503 c:\users\admin\downloads\flappyskull-main\land.h
+	"CommonFunc.h"
+	<vector>
+
+1716259503 c:\users\admin\downloads\flappyskull-main\mixer.h
+	"CommonFunc.h"
+
+1716259503 source:c:\users\admin\downloads\flappyskull-main\land.cpp
+	"land.h"
+	<iostream>
+
+1716259503 source:c:\users\admin\downloads\flappyskull-main\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"GameLoop.h"
+	"mixer.h"
+
+1716259503 source:c:\users\admin\downloads\flappyskull-main\mixer.cpp
+	"mixer.h"
+	<iostream>
+	<string>
+
+1716259503 source:c:\users\admin\downloads\flappyskull-main\pipe.cpp
+	"pipe.h"
+
+1716259503 source:c:\users\admin\documents\codecuanlinh\flappybird\commonfunc.cpp
+	"CommonFunc.h"
+
+1716259503 c:\users\admin\documents\codecuanlinh\flappybird\commonfunc.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1717023283 source:c:\users\admin\documents\codecuanlinh\flappybird\eagle.cpp
+	"eagle.h"
+	"pipe.h"
+
+1716259503 c:\users\admin\documents\codecuanlinh\flappybird\eagle.h
+	"CommonFunc.h"
+	"pipe.h"
+
+1716259503 c:\users\admin\documents\codecuanlinh\flappybird\pipe.h
+	"CommonFunc.h"
+	<iostream>
+	<vector>
+	<iostream>
+
+1717030646 source:c:\users\admin\documents\codecuanlinh\flappybird\gameloop.cpp
+	"GameLoop.h"
+	"CommonFunc.h"
+	<iostream>
+	<cmath>
+
+1716259503 c:\users\admin\documents\codecuanlinh\flappybird\gameloop.h
+	"eagle.h"
+	"pipe.h"
+	"land.h"
+	"mixer.h"
+	<string>
+	<fstream>
+	<sstream>
+
+1716259503 c:\users\admin\documents\codecuanlinh\flappybird\land.h
+	"CommonFunc.h"
+	<vector>
+
+1716259503 c:\users\admin\documents\codecuanlinh\flappybird\mixer.h
+	"CommonFunc.h"
+
+1716259503 source:c:\users\admin\documents\codecuanlinh\flappybird\land.cpp
+	"land.h"
+	<iostream>
+
+1716259503 source:c:\users\admin\documents\codecuanlinh\flappybird\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"GameLoop.h"
+	"mixer.h"
+
+1716259503 source:c:\users\admin\documents\codecuanlinh\flappybird\mixer.cpp
+	"mixer.h"
+	<iostream>
+	<string>
+
+1716259503 source:c:\users\admin\documents\codecuanlinh\flappybird\pipe.cpp
+	"pipe.h"
+
